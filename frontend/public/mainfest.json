@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "AcTracker",
+  "version": "1.0.0",
+  "description": "",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "AcTracker"
+  },
+  "permissions": ["scripting", "http://localhost:3000/*"]
+}
