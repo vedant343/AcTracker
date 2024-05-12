@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "AcTracker",
+  "version": "1.0.0",
+  "description": "The Activity Tracker Chrome extension helps users boost productivity by tracking website usage, offering insights for efficient time management and fostering mindful browsing habits."
+}
